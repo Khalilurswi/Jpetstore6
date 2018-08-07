@@ -15,7 +15,7 @@ JPetStore 6 is a full web application built on top of MyBatis 3, Spring 4 and St
 Essentials
 ----------
 
-* [See the docs](http://www.mybatis.org/jpetstore-6)
+* [See the docs](https://github.com/Khalilurswi/Jpetstore6)
 
 ## Other versions that you may want to know about
 
@@ -29,13 +29,13 @@ Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://c
 - Clone this repository
 
   ```
-  $ git clone https://github.com/mybatis/jpetstore-6.git
+  $ git clone https://github.com/Khalilurswi/Jpetstore6
   ```
 
 - Build war file
 
   ```
-  $ cd jpetstore-6
+  $ cd jpetstore6
   $ ./mvnw clean package
   ```
 
